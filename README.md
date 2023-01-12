@@ -29,3 +29,5 @@ Pour ajouter un ami il faut inserer le pseudo dans le champs convenable et cliqu
 
 Un petit beug : si en passe vers une nouvelle interface la page Home est bloquer, il faut relancer application à nouveau.
 
+--le fichier qui contient la Base de donnée est dans le dossier BD/chat_app.sql
+
