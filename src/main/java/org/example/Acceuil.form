@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="org.example.Acceuil">
+  <grid id="27dc6" binding="acceuil" layout-manager="GridLayoutManager" row-count="6" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="10" left="10" bottom="10" right="10"/>
+    <constraints>
+      <xy x="20" y="20" width="735" height="485"/>
+    </constraints>
+    <properties>
+      <background color="-12502105"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="a6398" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="2" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="JetBrains Mono" size="24" style="3"/>
+          <foreground color="-1"/>
+          <text value="WELCOME!"/>
+        </properties>
+      </component>
+      <component id="80df5" class="javax.swing.JButton" binding="btnRegister">
+        <constraints>
+          <grid row="3" column="1" row-span="2" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <font name="JetBrains Mono" size="16" style="3"/>
+          <foreground color="-1"/>
+          <text value="REGISTER"/>
+        </properties>
+      </component>
+      <component id="79245" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Arial Black" size="18" style="1"/>
+          <foreground color="-1"/>
+          <text value="ALREADY HAVE AN ACCOUNT?!"/>
+        </properties>
+      </component>
+      <component id="2a39a" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Arial Black" size="18" style="1"/>
+          <foreground color="-1"/>
+          <text value="DON'T HAVE AN ACCOUNT?!"/>
+        </properties>
+      </component>
+      <component id="b88bf" class="javax.swing.JButton" binding="btnLogin">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <font name="JetBrains Mono" size="16" style="3"/>
+          <foreground color="-1"/>
+          <text value="LOGIN"/>
+        </properties>
+      </component>
+      <component id="d9c6e" class="javax.swing.JButton" binding="btnCancel">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="6" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-6051073"/>
+          <font name="JetBrains Mono" size="16" style="3"/>
+          <foreground color="-16777216"/>
+          <text value="EXIT!"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
