@@ -16,8 +16,8 @@ CHAT USING multithread UDP
 
 <h3>Comment cela fonctionne?</h3></br>
 <h4>Pour lancer l'application, il faut:</h4></br>
--lancer le serveur, executer la class Server
--lancer un ou plusieurs user, executer la class User</br>
+-lancer le serveur, executer la class Server</br>
+-lancer un ou plusieurs user, executer la class User</br></br>
 
 Une foix lancer,il faut soit s'identifier ou s'authentifier une foix c'est fait,la page Home est affiché vous pouver voir la liste de vos amis , la liste de vos groupes et la liste des amis connectés il faut actualiser la page de temps en temps pour voir si un nouvel ami est connecter.</br>
 
